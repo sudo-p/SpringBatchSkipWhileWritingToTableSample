@@ -20,21 +20,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d79fded-953a-48fc-8b61-4288017ddbc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/JobConfigurations/ImportFromCSVtoTableSampleWithSkipDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ecwid_consul_consul_api_1_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_consul_config_2_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_consul_core_2_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_consul_2_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_consul_config_1_3_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_9_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringLabs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringLabs.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/ConfigurationProperties/MyProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/ConfigurationProperties/MyProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/Controllers/DistributedPropertiesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/Controllers/DistributedPropertiesController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/EntryPoint/SkippableExceptionDuringWriteSampleRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/EntryPoint/SkippableExceptionDuringWriteSampleRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/Domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/Domain/OldCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/Domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/Domain/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/EntryPoint/FixedLengthFileReaderExampleRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/EntryPoint/FixedLengthFileReaderExampleRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/ItemProcessors/PersonItemProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/ItemProcessors/PersonItemProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/batch-processing-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/ConfigurationProperties/MyProperties.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/Controllers/DistributedPropertiesController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/EntryPoint/SkippableExceptionDuringWriteSampleRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/JobConfigurations/BatchConfiguration1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/JobConfigurations/FixedLengthFileReaderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/JobConfigurations/FixedLengthFileReaderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/JobConfigurations/SkippableExceptionDuringWriteSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/JobConfigurations/SkippableExceptionDuringWriteSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/Listeners/JobCompletionNotificationListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/Listeners/JobCompletionNotificationListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/Listeners/StepResultListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/Listeners/StepResultListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/Listeners/StepSkipListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/Listeners/StepSkipListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sample-data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sample-data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/schema-all.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/schema-all.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/Domain/Customer$CustomerBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/Domain/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/Domain/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/Domain/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/EntryPoint/FixedLengthFileReaderExampleRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/ItemProcessors/PersonItemProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/JobConfigurations/FixedLengthFileReaderExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/JobConfigurations/SkippableExceptionDuringWriteSample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/JobConfigurations/SkippableExceptionDuringWriteSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/Listeners/StepResultListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/Listeners/StepSkipListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample-data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample-data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/schema-all.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/schema-all.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,20 +93,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.batchprocessing.Repositories" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\development\LocalLabs\SpringLabs\@Master\src\main\resources" />
+      <recent name="C:\development\LocalLabs\SpringLabs\@Master\src\main\java\com\example\batchprocessing\Repositories" />
+      <recent name="C:\development\LocalLabs\SpringLabs\@Master\src\main\java\com\example\batchprocessing\Domain" />
       <recent name="C:\development\LocalLabs\SpringLabs\gs-batch-processing\complete\src\main\java\com\example\batchprocessing\Config" />
       <recent name="C:\development\LocalLabs\SpringLabs\gs-batch-processing\complete\src\main\java\com\example\batchprocessing\ConfigurationProperties" />
-      <recent name="C:\development\LocalLabs\SpringLabs\gs-batch-processing\complete\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.batchprocessing.Listeners" />
+      <recent name="com.example.batchprocessing.ItemWriters" />
+      <recent name="com.example.batchprocessing.ItemProcessors" />
       <recent name="com.example.batchprocessing.EntryPoint" />
       <recent name="com.example.batchprocessing" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\development\LocalLabs\SpringLabs\@Master\src\main\java\com\example\batchprocessing\Domain" />
       <recent name="C:\development\LocalLabs\SpringLabs\@Master\src\main\resources" />
       <recent name="C:\development\MyLabs\SpringLabs\gs-batch-processing\complete\src\main\java\com\example\batchprocessing\OutputLogs" />
       <recent name="C:\development\MyLabs\SpringLabs\gs-batch-processing\complete\src\main\java\com\example\batchprocessing\EntryPoint" />
@@ -122,6 +161,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="327" y="191" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1594257966548" />
+    <state x="527" y="18" key="#com.intellij.ide.util.MemberChooser" timestamp="1594431914208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="18" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594431914208" />
+    <state x="435" y="138" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1594349644344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="435" y="138" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1594349644344" />
+    <state x="481" y="284" width="605" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594349645737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="481" y="284" width="605" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1594349645737" />
     <state x="496" y="89" key="FileChooserDialogImpl" timestamp="1594086602525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
